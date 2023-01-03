@@ -1,0 +1,13 @@
+[
+  [
+    "name" : "JMSCallerWorkItemHandler",
+    "displayName" : "JMS Caller",
+    "category" : "Integration",
+    "description" : "Produces a JMS message in a given queue",
+    "parameters" : [
+      "queueName" : new StringDataType(),
+      "payload" : new StringDataType(),
+    ],
+    "icon" : "defaultemailicon.gif"
+  ]
+]
