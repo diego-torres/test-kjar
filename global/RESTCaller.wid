@@ -3,7 +3,7 @@
     "name" : "RESTCallerWorkItemHandler",
     "displayName" : "REST Caller",
     "category" : "Integration",
-    "description" : "Invoke a REST API through https",
+    "description" : "",
     "defaultHandler" : "mvel: new org.jbpm.process.workitem.rest.RESTWorkItemHandler()",
     "parameters" : [
       "ConnectTimeout" : new StringDataType()
